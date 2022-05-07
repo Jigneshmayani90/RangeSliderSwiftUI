@@ -25,7 +25,7 @@ In Xcode, use the menu File > Swift Packages > Add Package Dependency... and ent
 ## Usage example
 To run the example project, clone the repo, and run pod install from the Example directory first.
 
-![alt text](https://github.com/Jigneshmayani90/RangeSliderSwiftUI/blob/main/sample.mov)
+![alt text](https://github.com/Jigneshmayani90/RangeSliderSwiftUI/blob/main/sample.mp4)
 
 ```
 @State var minValue: Float = 0.0
